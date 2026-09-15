@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Staff Scientist, Vaccine and Infectious Disease Division, <a href='https://www.fredhutch.org/'>Fred Hutchinson Cancer Center</a>. Computational immunology and immune repertoire sequencing.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Vaccine and Infectious Disease Division</p>
+    <p>Fred Hutchinson Cancer Center</p>
+    <p>Seattle, WA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computational biologist and staff scientist in the Vaccine and Infectious Disease Division at the Fred Hutchinson Cancer Center in Seattle. My work develops computational methods for high-dimensional flow cytometry and immune receptor repertoire sequencing (AIRR-seq) to understand how T cells respond to infection, vaccination, and cancer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a lead author of [tcrdist3](https://github.com/kmayerb/tcrdist3), an open-source toolkit for distance-based analysis of T cell receptor repertoires, and its meta-clonotype framework for discovering public, HLA-restricted TCR biomarkers. More recently I have worked on calibrated inference of HLA genotypes from TCR repertoires (TCR2HLA) and on repertoire signatures of type 1 diabetes, SARS-CoV-2, and cancer.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My background spans environmental microbiology and microbial ecology, where I built nanoliter qPCR platforms for quantifying microbial populations, before moving into immunology and repertoire analysis. I care about reproducible, open-source scientific software.
