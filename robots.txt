@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kmayerb.github.io/sitemap.xml
+Sitemap: https://kmayerb.github.io/koshlan/sitemap.xml
