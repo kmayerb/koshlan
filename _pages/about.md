@@ -6,7 +6,7 @@ subtitle: Staff Scientist, Vaccine and Infectious Disease Division, <a href='htt
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: boat2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Vaccine and Infectious Disease Division</p>
